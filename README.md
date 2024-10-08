@@ -21,7 +21,7 @@ A simple React application that allows users to search for cities and view their
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShubhamBagthaliya/search-place-task.git
+   git clone [https://github.com/ShubhamBagthaliya/search-place-task.git](https://github.com/Shubhamdev99/solvative-task-search-places.git)
 
    cd search-place-task
    npm install
