@@ -23,7 +23,7 @@ A simple React application that allows users to search for cities and view their
    ```bash
    git clone https://github.com/Shubhamdev99/solvative-task-search-places.git
 
-   cd search-place-task
+   cd solvative-task-search-places
    npm install
    npm start
 
